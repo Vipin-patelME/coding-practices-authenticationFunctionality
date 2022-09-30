@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.nave-cont {
+  display: flex;
+  align-items: center;
+}
+.para-style {
+  margin: 60px;
+}
